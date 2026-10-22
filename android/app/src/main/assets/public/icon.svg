@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#059669"/>
+  <!-- Subtle Malagasy geometric border pattern -->
+  <path d="M96 416L128 384L160 416L192 384L224 416L256 384L288 416L320 384L352 416L384 384L416 416" stroke="#34D399" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+  <!-- Stylized shopping bag handle -->
+  <path d="M196 184V152C196 118.863 222.863 92 256 92C289.137 92 316 118.863 316 152V184" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round"/>
+  <!-- Stylized commercial bag body -->
+  <path d="M132 184H380L398 376C400.2 399.4 381.8 420 358.2 420H153.8C130.2 420 111.8 399.4 114 376L132 184Z" fill="#FFFFFF"/>
+  <!-- Malagasy Ravinala / Lamba geometric diamond inside bag -->
+  <path d="M256 226L312 288L256 350L200 288L256 226Z" fill="#059669"/>
+  <path d="M256 252L288 288L256 324L224 288L256 252Z" fill="#10B981"/>
+  <circle cx="256" cy="288" r="12" fill="#FFFFFF"/>
+</svg>
